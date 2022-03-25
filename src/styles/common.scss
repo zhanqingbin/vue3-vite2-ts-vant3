@@ -1,0 +1,95 @@
+// 全局公共样式
+body,
+div,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+ol,
+a,
+i,
+b,
+em,
+strong,
+span,
+img {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+.clearFix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.clearFix {
+  zoom: 1;
+}
+
+b {
+  font-weight: normal;
+}
+
+body {
+  // background: $bg-color;
+}
+
+body,
+a {
+  font-size: 12px;
+  color: #000;
+}
+
+img {
+  display: block;
+  border: none;
+}
+
+input,
+button {
+  border: none;
+  outline: none;
+}
+
+input,
+a,
+button {
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+textarea {
+  resize: none;
+}
+
+body a:hover,
+body a:link {
+  text-decoration: none;
+}
+
+body,
+a {
+  font-family: "PingFangSC-Regular", "Microsoft YaHei", "Open Sans", Arial, "Hiragino Sans GB", "微软雅黑", "STHeiti", "WenQuanYi Micro Hei", SimSun, sans-serif !important;
+}
