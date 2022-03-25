@@ -2,6 +2,7 @@
 
 移动端企业级模板，使用`Vue3`全家桶搭配`typescript`，以及语法糖`<script setup>`，`vite2`打包编译，`vant3`UI 组件按需引入，`rem`移动端适配，`fastClick`兼容，同时有详细的`ESLint`全套配置，`git hook`和`commitlint`代码提交检测等。可学习实战使用。
 
+[GitHub：vue3-vite2-ts-vant3https://github.com/zhanqingbin/vue3-vite2-ts-vant3](https://github.com/zhanqingbin/vue3-vite2-ts-vant3)
 ## 编辑器和插件
 
 1. `Vscode`: 前端人必备写码神器
